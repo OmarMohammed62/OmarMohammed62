@@ -60,10 +60,10 @@
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="(https://www.linkedin.com/in/omar-mohamed-web)">
+  <a href="https://www.linkedin.com/in/omar-mohamed-web">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="(https://github.com/OmarMohammed62?tab=repositories)">
+  <a href="https://github.com/OmarMohammed62?tab=repositories">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
