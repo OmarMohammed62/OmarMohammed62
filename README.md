@@ -46,6 +46,13 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://omarmohammed62.github.io/omar-portfolio/">
+    <img src="https://img.shields.io/badge/Visit_My_Portfolio-181717?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+</p>
+
+
 ---
 
 ## 📊 GitHub Statistics
